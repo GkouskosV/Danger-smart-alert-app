@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="sos_button">SOS</string>
+    <string name="abort_button">Abort</string>
+    <string name="see_statistics">See statistics</string>
+    <string name="sms_toast">SMS successfully sent</string>
+    <string name="remaining_time">Seconds remaining: </string>
+    <string name="done">Time is up</string>
+    <string name="gps_ok">GPS Granted</string>
+    <string name="ask_gps">The app needs GPS</string>
+    <string name="sos_message">My coordinates are, latitude: %1$d and longitude: %2$d and I need help!</string>
+    <string name="update_db">Update Database</string>
+</resources>

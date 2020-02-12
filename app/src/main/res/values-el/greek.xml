@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="sos_button">ΣΟΣ</string>
+    <string name="abort_button">Ακύρωση</string>
+    <string name="see_statistics">Στατιστικά</string>
+    <string name="sms_toast">SMS στάλθηκε με επιτυχία</string>
+    <string name="remaining_time">Υπολοιπόμενα δεύτερα: </string>
+    <string name="done">Ολοκλήρωση χρόνου</string>
+    <string name="gps_ok">Ικανοποίηση GPS</string>
+    <string name="ask_gps">Η εφαρμογή χρειάζεται GPS</string>
+    <string name="sos_message">Βρίσκομαι στη τοποθεσία με γεωγραφικό μήκος: %1$d και γεωγραφικό πλάτος: %1$d και χρειάζομαι βοήθεια!</string>
+    <string name="update_db">Ενημέρωση Βάσης</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="sos_button">SOS</string>
+    <string name="abort_button">Cancelar</string>
+    <string name="see_statistics">Estadística</string>
+    <string name="sms_toast">SMS enviado con éxito</string>
+    <string name="remaining_time">Segundos restantes: </string>
+    <string name="done">El tiempo ha terminado</string>
+    <string name="gps_ok">GPS otorgado</string>
+    <string name="ask_gps">La aplicación necesita GPS</string>
+    <string name="sos_message">Mis coordenadas son: latitud: %1$d y longitud: %1$d ¡y necesito ayuda!</string>
+    <string name="update_db">Base de datos actualizada</string>
+</resources>

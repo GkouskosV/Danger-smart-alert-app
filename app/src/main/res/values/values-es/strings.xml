@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="sos_button">SOS</string>
+    <string name="abort_button">Cancelar</string>
+    <string name="see_statistics">Estadística</string>
+</resources>
