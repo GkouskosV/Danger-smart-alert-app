@@ -1,6 +1,7 @@
 # Danger smart alert android app
 
-The app is still in progress.
+Simple university project.
+The project is still in progress.
 
 The android app notify other people if the user is in danger. The form of the risk is set to be:
 1. If the user is falling.
